@@ -1,0 +1,13 @@
+# Configurações do VS Code
+.vscode/
+
+# Executáveis
+vector_test
+vector_test.exe
+
+# Objetos
+*.o
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
