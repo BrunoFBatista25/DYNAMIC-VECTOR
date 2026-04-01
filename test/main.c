@@ -3,14 +3,14 @@
 #include <stdlib.h>
 #include <string.h>
 
-// ====================== Struct de exemplo para testar ======================
+
 typedef struct {
     int id;
     char nome[50];
     float salario;
 } Pessoa;
 
-// ====================== Funções auxiliares de teste ======================
+
 
 void print_int(const void* elem)
 {
